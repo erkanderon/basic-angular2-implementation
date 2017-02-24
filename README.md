@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Project5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.32.3.
@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # basic-angular2-implementation
 This is a simple implementation to understand angular2 structure
->>>>>>> 7b16dd0f2800899d859d24aaad1a85c9af95445c
+
